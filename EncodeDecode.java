@@ -1,4 +1,4 @@
-package lab1;
+//package lab1;
 
 /**
  * Takes in a list of words which can be decoded and encoded.
