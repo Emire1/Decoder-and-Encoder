@@ -1,4 +1,4 @@
-package lab1;
+//package lab1;
 
 public class EncodeDecodeTester {
     public static void main(String[] args) {
